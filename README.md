@@ -1,12 +1,12 @@
 # ST211 Assignments
 
-This repository contains my assignments, quizzes, and solutions for the ST211 course.
+This repository contains my Lectures,assignments, quizzes, and solutions for the ST211 course.
 
 ## Structure
 
 Each assignment is stored in a separate folder:
 
-- `quiz_01/` — Quiz 1
+- `Assignment_01/` — Assignemt 01
 - Additional assignments will be added throughout the course.
 
 ## Submission Information
@@ -18,4 +18,4 @@ Each assignment is stored in a separate folder:
 
 ## Note
 
-This repository is intended for course assignment submission and academic evaluation.
+This repository is intended for daily lectures and assignment submission and academic evaluation.
